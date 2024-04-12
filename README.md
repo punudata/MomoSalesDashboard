@@ -1,7 +1,5 @@
 # Momo Sales Dashboard
 
-This project involves the visualization of sales using various charts and diagrams to gain insights into Momo Sales Dashboard.
-
 This Power BI dashboard offers insights into sales performance for the Momo beverage brand, potentially across various regions or stores (states). It includes the following key metrics:
 
 **Total Sales**: Overall sales amount for the beverage brand during a specified time period (18/08/2022 - 25/12/2022 in the screenshot).
@@ -20,8 +18,11 @@ This Power BI dashboard offers insights into sales performance for the Momo beve
 # How to Use:
 
 **Download and Install Power BI Desktop**: Ensure you have Microsoft Power BI Desktop installed on your machine. You can download it for free from https://www.microsoft.com/en-us/download/details.aspx?id=58494.
+
 **Clone or Download the Repository**: Clone this repository to your local machine using Git clone or download the ZIP file containing the Power BI file (.pbix).
+
 **Open the Power BI File**: Open the .pbix file included in this repository using Power BI Desktop.
+
 **Data Connection:**
 If you're using a sample dataset included with the repository, you can skip this step.
 If you're using your own data, you'll need to establish a connection between Power BI Desktop and your data source. Refer to the Power BI documentation for instructions on connecting to various data sources: https://learn.microsoft.com/en-us/power-bi/.
